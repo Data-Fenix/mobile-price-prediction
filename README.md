@@ -35,7 +35,7 @@ In this project we are trying to predict the price of the mobile based on their 
 
 ##### Dependent Features
 * Price — Price of the mobile
-* 
+
 ## Motivation
 
 I’m working under telecommunications industry and sometimes industry also sell some mobile phones as an agent. They always deal with the new products and their price changes differently. Therefore, they need to check whether this product is worth for this price or not. According to this requirement they need to build a model to predict the price of the mobile by providing some features to the model. So as a ML engineer I need to solve this issue.
