@@ -1,4 +1,5 @@
 # Mobile Price Prediction using Machine Learning
+[<img target="_blank" src="https://github.com/Data-Fenix/mobile-price-prediction/blob/main/Images/mobile%20price.png">](https://github.com/Data-Fenix/mobile-price-prediction/blob/main/Images/mobile%20price.png)
 
 ## Table of Content
 
